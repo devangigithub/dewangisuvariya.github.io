@@ -30,7 +30,7 @@ export default defineConfig({
       "@assets": path.resolve(import.meta.dirname, "attached_assets"),
     },
   },
-  base: '/dewangisuvariya.github.io/',
+  base: process.env.NODE_ENV === 'production' ? '/dewangisuvariya.github.io/' : '/',
   css: {
     postcss: {
       plugins: [],
