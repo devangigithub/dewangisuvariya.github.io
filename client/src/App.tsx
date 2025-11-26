@@ -1,9 +1,9 @@
-import { Switch, Route } from "wouter";
+import { Switch, Route, Router as WouterRouter } from "wouter";
 import Home from "@/pages/home";
 import NotFound from "@/pages/not-found";
 import { Toaster } from "@/components/ui/toaster";
 
-function Router() {
+function AppRoutes() {
   return (
     <Switch>
       <Route path="/" component={Home} />
@@ -15,7 +15,9 @@ function Router() {
 function App() {
   return (
     <>
-      <Router />
+      <WouterRouter base={import.meta.env.BASE_URL.replace(/\/$/, "")}>
+        <AppRoutes />
+      </WouterRouter>
       <Toaster />
     </>
   );
