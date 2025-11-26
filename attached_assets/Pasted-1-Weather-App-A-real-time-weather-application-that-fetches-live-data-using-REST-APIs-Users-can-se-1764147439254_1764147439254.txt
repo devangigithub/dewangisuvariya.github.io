@@ -1,0 +1,43 @@
+1) Weather App
+
+A real-time weather application that fetches live data using REST APIs. Users can search any city to view accurate forecasts with responsive UI design. The app delivers smooth performance with dynamic data updates.
+
+2) Chat App
+
+A real-time chat application built with Firebase for message storage and authentication. Supports email/password login and Google Sign-In. Features a responsive, clean UI with instant message syncing across devices.
+
+3) Invoice Generator
+
+A smart invoicing app where users add items, quantities, and automatically calculate totals. Generates professional invoices with all details and allows downloading them as PDFs. Designed for accuracy and easy billing.
+
+4) Mirror Wall
+
+A multi-browser utility app that lets users open various government portals and websites in one place. Users can select their preferred browser mode and quickly navigate to sites, improving accessibility and productivity.
+
+5) Media Player
+
+A simple and powerful media player app supporting both audio and video playback. Offers smooth controls, responsive UI, and seamless media handling for an enhanced user experience.
+
+6) Contact Diary
+
+A cross-platform contact management app supporting iOS and Android UI themes. Includes authentication and allows users to add, edit, and delete contacts. Ensures secure data handling with a clean, adaptive interface.
+
+7) Festival App
+
+A festive card-making application where users create personalized festival greetings. Includes custom images, colors, fonts, and messages to design beautiful, shareable digital cards.
+
+8) Galaxy Planets
+
+An educational and visually rich app displaying animated galaxy and planet information. The UI uses smooth animations and engaging visuals to make learning fun and interactive.
+
+9) Quote App
+
+A customizable quote management app where users can add, edit, delete, and favorite quotes. All data is stored locally, ensuring quick access and offline functionality. Clean UI for easy navigation.
+
+10) Departure Gita
+
+A multilingual app presenting Shrimad Bhagavad Gita content in Hindi, Gujarati, and English. Users can switch languages instantly, enabling a fully localized reading experience.
+
+11) PR 5 Timer
+
+A versatile time-management app offering a stopwatch, digital clock, and custom timer creation. Designed with a clean interface for accurate time tracking and everyday productivity.
