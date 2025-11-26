@@ -21,8 +21,8 @@ jobs:
         run: npm install
 
       - name: Build client only
-        run: vite build
-        # ✅ Only build the client, not the server
+        run: npx vite build
+        # ✅ Use npx to run vite directly
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v4
